@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+    display:flex;
+    height: 100vh;
+}
+
+img{
+width: 100%;
+}
+
+.post-header{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    background-color: white;
+}
+
+.post{
+    width: 450px;
+}
+
+.fa-brands{
+margin-right: 5px;
+font-size: 20px;
+
+}
+
+.icon-header{
+    display: flex;
+align-items: center;
+}
+
+.fa-ellipsis-vertical{
+font-size: 30px;
+}
+
+.post-description{
+    background-color: white;
+    font-size: 25px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.post-image{
+    background-color: white;
+}
+
+.post-footer{
+    background-color: white;
+}
+
+.post-text{
+    text-align: justify;
+    padding: 10px;
+}
